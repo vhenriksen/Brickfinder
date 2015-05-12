@@ -1,0 +1,19 @@
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\BrickFinder01.exe
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\BrickFinder01.pdb
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\MainWindow.baml
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\MainWindow.g.cs
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\App.g.cs
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\BrickFinder01_MarkupCompile.cache
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\BrickFinder01.g.resources
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\BrickFinder01.Properties.Resources.resources
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\BrickFinder01.exe
+c:\documents and settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Debug\BrickFinder01.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\Controllers.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\Data Access Layer.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\Controllers.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Debug\Data Access Layer.pdb

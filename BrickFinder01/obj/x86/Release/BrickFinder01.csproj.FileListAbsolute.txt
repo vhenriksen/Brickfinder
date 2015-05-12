@@ -1,0 +1,19 @@
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\BrickFinder01.exe
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\BrickFinder01.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\Controllers.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\ClassLibrary.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\Data Access Layer.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\Controllers.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\ClassLibrary.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\bin\Release\Data Access Layer.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\App.g.cs
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\BrickFinder01_MarkupCompile.cache
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\BrickFinder01.g.resources
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\BrickFinder01.Properties.Resources.resources
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\BrickFinder01.exe
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\BrickFinder01\obj\x86\Release\BrickFinder01.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\bin\Release\Data Access Layer.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\bin\Release\Data Access Layer.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\bin\Release\ClassLibrary.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\bin\Release\ClassLibrary.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\obj\Release\Data Access Layer.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Data Access Layer\obj\Release\Data Access Layer.pdb

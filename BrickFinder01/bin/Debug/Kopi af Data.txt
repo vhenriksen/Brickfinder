@@ -1,0 +1,146 @@
+#0<109981<99781<11<0.55<Black Bracket 1 x 2 - 1 x 2 
+#0<109305<99780<11<0.55<Black Bracket 1 x 2 - 1 x 2 Inverted 
+#0<109305<99780<86<0.55<Light Bluish Gray Bracket 1 x 2 - 1 x 2 Inverted 
+#0<17759<44728<7<0.8<Blue Bracket 1 x 2 - 2 x 2 
+#0<17759<44728<6<0.8<Green Bracket 1 x 2 - 2 x 2 
+#0<17759<44728<5<0.8<Red Bracket 1 x 2 - 2 x 2 
+#0<109610<99207<11<0.8<Black Bracket 1 x 2 - 2 x 2 Inverted 
+#0<109610<99207<86<0.8<Light Bluish Gray Bracket 1 x 2 - 2 x 2 Inverted 
+#0<448<3066<13<1.71<Trans-Black Brick 1 x 4 without Bottom Tubes 
+#0<1968<30414<6<1.7<Green Brick, Modified 1 x 4 with 4 Studs on 1 Side 
+#0<1968<30414<5<1.7<Red Brick, Modified 1 x 4 with 4 Studs on 1 Side 
+#0<1968<30414<3<1.7<Yellow Brick, Modified 1 x 4 with 4 Studs on 1 Side 
+#0<751<3937<7<0.48<Blue Hinge Brick 1 x 2 Base 
+#0<751<3937<6<0.48<Green Hinge Brick 1 x 2 Base 
+#0<751<3937<2<0.48<Tan Hinge Brick 1 x 2 Base 
+#0<751<3937<1<0.48<White Hinge Brick 1 x 2 Base 
+#0<752<3938<7<0.34<Blue Hinge Brick 1 x 2 Top Plate Thin 
+#0<752<3938<6<0.34<Green Hinge Brick 1 x 2 Top Plate Thin 
+#0<752<3938<5<0.34<Red Hinge Brick 1 x 2 Top Plate Thin 
+#0<752<3938<2<0.34<Tan Hinge Brick 1 x 2 Top Plate Thin 
+#0<752<3938<1<0.34<White Hinge Brick 1 x 2 Top Plate Thin 
+#0<752<3938<3<0.34<Yellow Hinge Brick 1 x 2 Top Plate Thin 
+#0<38444<44567<6<0.51<Green Hinge Plate 1 x 2 Locking with 1 Finger on Side 
+#0<38444<44567<1<0.51<White Hinge Plate 1 x 2 Locking with 1 Finger on Side 
+#0<38444<44567<3<0.51<Yellow Hinge Plate 1 x 2 Locking with 1 Finger on Side 
+#0<67072<58247<11<0.34<Black Minifig, Weapon Gun, Blaster Short (SW) 
+#0<41661<2362b<7<1.3<Blue Panel 1 x 2 x 3 - Hollow Studs 
+#0<41661<2362b<3<1.3<Yellow Panel 1 x 2 x 3 - Hollow Studs 
+#0<90232<87544<11<1.22<Black Panel 1 x 2 x 3 with Side Supports - Hollow Studs 
+#0<90232<87544<6<1.22<Green Panel 1 x 2 x 3 with Side Supports - Hollow Studs 
+#0<90232<87544<5<1.22<Red Panel 1 x 2 x 3 with Side Supports - Hollow Studs 
+#0<1913<30413<13<1.02<Trans-Black Panel 1 x 4 x 1 
+#0<10567<4081b<5<0.35<Red Plate, Modified 1 x 1 with Clip Light - Thick Ring 
+#0<97319<92280<86<0.4<Light Bluish Gray Plate, Modified 1 x 2 with Clip on Top 
+#0<77053<60478<2<0.55<Tan Plate, Modified 1 x 2 with Handle on End - Closed Ends 
+#0<114287<11458<1<0.47<White Plate, Modified 1 x 2 with Pin Hole 
+#0<90264<87609<11<2.24<Black Plate, Modified 2 x 6 x 2/3 with 4 Studs on Side 
+#0<90264<87609<6<2.24<Green Plate, Modified 2 x 6 x 2/3 with 4 Studs on Side 
+#0<90264<87609<1<2.24<White Plate, Modified 2 x 6 x 2/3 with 4 Studs on Side 
+#0<90264<87609<3<2.24<Yellow Plate, Modified 2 x 6 x 2/3 with 4 Studs on Side 
+#0<77238<61409<1<0.3<White Slope 18 2 x 1 x 2/3 with 4 Slots 
+#0<119122<11477<86<0.25<Light Bluish Gray Slope, Curved 2 x 1 No Studs 
+#0<119122<11477<1<0.25<White Slope, Curved 2 x 1 No Studs 
+#0<119122<11477<3<0.25<Yellow Slope, Curved 2 x 1 No Studs 
+#0<122934<15068<2<0.57<Tan Slope, Curved 2 x 2 No Studs 
+#0<122934<15068<1<0.57<White Slope, Curved 2 x 2 No Studs 
+#0<91346<88930<11<1.36<Black Slope, Curved 2 x 4 x 2/3 No Studs with Bottom Tubes 
+#0<91346<88930<5<1.36<Red Slope, Curved 2 x 4 x 2/3 No Studs with Bottom Tubes 
+#0<51829<50950<7<0.75<Blue Slope, Curved 3 x 1 No Studs 
+#0<51829<50950<2<0.75<Tan Slope, Curved 3 x 1 No Studs 
+#0<51829<50950<3<0.75<Yellow Slope, Curved 3 x 1 No Studs 
+#0<77017<61678<7<0.8<Blue Slope, Curved 4 x 1 No Studs 
+#0<77017<61678<2<0.8<Tan Slope, Curved 4 x 1 No Studs 
+#0<77017<61678<3<0.8<Yellow Slope, Curved 4 x 1 No Studs 
+#0<9081<3070b<12<0.16<Trans-Clear Tile 1 x 1 with Groove 
+#0<9081<3070b<14<0.16<Trans-Dark Blue Tile 1 x 1 with Groove 
+#0<477<3069bps1<86<0.26<Light Bluish Gray Tile 1 x 2 with SW Computer Pattern 
+#0<105246<98138<7<0.11<Blue Tile, Round 1 x 1 
+#0<119532<11209<11<1.43<Black Tire 21 x 9.9 
+#0<715<3829c01<86<0.6<Light Bluish Gray Vehicle, Steering Stand 1 x 2 with Black Steering Wheel 
+#0<113922<11291<7<1.57<Blue Wedge 3 x 4 x 2/3 Cutout 
+#0<113922<11291<5<1.57<Red Wedge 3 x 4 x 2/3 Cutout 
+#0<51820<52031<6<3.3<Green Wedge 4 x 6 x 2/3 Triple Curved 
+#0<51820<52031<1<3.3<White Wedge 4 x 6 x 2/3 Triple Curved 
+#0<51820<52031<3<3.3<Yellow Wedge 4 x 6 x 2/3 Triple Curved 
+#0<17756<43723<7<0.64<Blue Wedge, Plate 3 x 2 Left 
+#0<17756<43723<6<0.64<Green Wedge, Plate 3 x 2 Left 
+#0<17756<43723<3<0.64<Yellow Wedge, Plate 3 x 2 Left 
+#0<17755<43722<7<0.64<Blue Wedge, Plate 3 x 2 Right 
+#0<17755<43722<6<0.64<Green Wedge, Plate 3 x 2 Right 
+#0<17755<43722<3<0.64<Yellow Wedge, Plate 3 x 2 Right 
+#0<119533<11208<86<0.91<Light Bluish Gray Wheel 14mm D. x 9.9mm with Center Groove, Fake Bolts and 6 Spokes 
+
+#1<99781@11<2<NaN
+#1<99780@11<2<NaN
+#1<99780@86<16<NaN
+#1<44728@7<3<NaN
+#1<44728@6<2<NaN
+#1<44728@5<6<NaN
+#1<99207@11<4<NaN
+#1<99207@86<2<NaN
+#1<3066@13<2<NaN
+#1<30414@6<2<NaN
+#1<30414@5<1<NaN
+#1<30414@3<2<NaN
+#1<3937@7<2<NaN
+#1<3937@6<2<NaN
+#1<3937@2<2<NaN
+#1<3937@1<8<NaN
+#1<3938@7<2<NaN
+#1<3938@6<2<NaN
+#1<3938@5<2<NaN
+#1<3938@2<2<NaN
+#1<3938@1<8<NaN
+#1<3938@3<2<NaN
+#1<44567@6<2<NaN
+#1<44567@1<5<NaN
+#1<44567@3<2<NaN
+#1<58247@11<1<NaN
+#1<2362b@7<2<NaN
+#1<2362b@3<2<NaN
+#1<87544@11<2<NaN
+#1<87544@6<2<NaN
+#1<87544@5<2<NaN
+#1<30413@13<1<NaN
+#1<4081b@5<1<NaN
+#1<92280@86<1<NaN
+#1<60478@2<6<NaN
+#1<11458@1<4<NaN
+#1<87609@11<1<NaN
+#1<87609@6<1<NaN
+#1<87609@1<3<NaN
+#1<87609@3<1<NaN
+#1<61409@1<8<NaN
+#1<11477@86<15<NaN
+#1<11477@1<2<NaN
+#1<11477@3<4<NaN
+#1<15068@2<6<NaN
+#1<15068@1<1<NaN
+#1<88930@11<1<NaN
+#1<88930@5<2<NaN
+#1<50950@7<2<NaN
+#1<50950@2<2<NaN
+#1<50950@3<2<NaN
+#1<61678@7<2<NaN
+#1<61678@2<2<NaN
+#1<61678@3<2<NaN
+#1<3070b@12<1<NaN
+#1<3070b@14<1<NaN
+#1<3069bps1@86<5<NaN
+#1<98138@7<2<NaN
+#1<11209@11<48<NaN
+#1<3829c01@86<6<NaN
+#1<11291@7<1<NaN
+#1<11291@5<1<NaN
+#1<52031@6<2<NaN
+#1<52031@1<2<NaN
+#1<52031@3<1<NaN
+#1<43723@7<1<NaN
+#1<43723@6<1<NaN
+#1<43723@3<1<NaN
+#1<43722@7<1<NaN
+#1<43722@6<1<NaN
+#1<43722@3<1<NaN
+#1<11208@86<48<NaN
+

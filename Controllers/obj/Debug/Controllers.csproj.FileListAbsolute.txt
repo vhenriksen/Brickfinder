@@ -1,0 +1,9 @@
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\bin\Debug\Controllers.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\bin\Debug\Controllers.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\obj\Debug\Controllers.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\obj\Debug\Controllers.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\bin\Debug\Data Access Layer.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\Controllers\bin\Debug\Data Access Layer.pdb

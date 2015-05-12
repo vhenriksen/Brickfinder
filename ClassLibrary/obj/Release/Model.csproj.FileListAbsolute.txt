@@ -1,0 +1,5 @@
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\ClassLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Documents and Settings\bruger\dokumenter\visual studio 2010\Projects\BrickFinder01\ClassLibrary\obj\Release\ClassLibrary.pdb

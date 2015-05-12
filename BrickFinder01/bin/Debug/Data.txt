@@ -1,0 +1,9 @@
+#0<38444<44567<6<0.51<Green Hinge Plate 1 x 2 Locking with 1 Finger on Side 
+#0<38444<44567<1<0.51<White Hinge Plate 1 x 2 Locking with 1 Finger on Side 
+#0<38444<44567<3<0.51<Yellow Hinge Plate 1 x 2 Locking with 1 Finger on Side 
+#0<67072<58247<11<0.34<Black Minifig, Weapon Gun, Blaster Short (SW) 
+
+#1<44567@6<2<NaN
+#1<44567@1<5<NaN
+#1<44567@3<2<NaN
+#1<58247@11<1<NaN
